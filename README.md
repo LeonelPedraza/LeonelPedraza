@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="./assets/profile.png" alt="Leonel Pedraza - Full-stack Web Developer" width="220" />
+  <img src="./assets/profile.png" alt="Leonel Pedraza - Desarrollador web full-stack" width="220" />
 </p>
 
-<h1 align="center">Hi, I'm Leonel Pedraza 👋</h1>
+<h1 align="center">Hola, soy Leonel Pedraza 👋</h1>
 
 <p align="center">
-  <strong>Full-stack web developer focused on marketing software, dashboards, automation and API integrations.</strong>
+  <strong>Desarrollador web full-stack enfocado en software para marketing, dashboards, automatización e integraciones con APIs.</strong>
 </p>
 
 <p align="center">
@@ -16,17 +16,17 @@
 
 ---
 
-## Recruiter snapshot
+## Perfil para reclutadores
 
-I build full-stack products that connect clean interfaces with reliable backend services. My strongest experience is in SaaS-style dashboards, marketing automation, third-party API integrations and systems that help teams monitor, analyze and act on business data.
+Construyo productos full-stack que conectan interfaces limpias con servicios backend confiables. Mi experiencia más sólida está en dashboards tipo SaaS, automatización para marketing, integraciones con APIs de terceros y sistemas que ayudan a los equipos a monitorear, analizar y actuar sobre datos de negocio.
 
-What I usually bring to a team:
+Lo que suelo aportar a un equipo:
 
-- **Frontend engineering:** React, Next.js, TypeScript, UI architecture, reusable components and dashboard interfaces.
-- **Backend engineering:** Node.js, Python, FastAPI, REST APIs, authentication flows and microservices.
-- **Data and integrations:** MongoDB, Supabase, Google Ads API, Meta/LinkedIn/TikTok Ads-related workflows and automation logic.
-- **Deployment and infrastructure:** Docker, Docker Compose, Traefik, Linux servers and production-oriented debugging.
-- **Product mindset:** I care about performance, clarity, user workflows and building software that solves real business problems.
+* **Frontend engineering:** React, Next.js, TypeScript, arquitectura UI, componentes reutilizables e interfaces tipo dashboard.
+* **Backend engineering:** Node.js, Python, FastAPI, APIs REST, flujos de autenticación y microservicios.
+* **Datos e integraciones:** MongoDB, Supabase, Google Ads API, flujos relacionados con Meta Ads, LinkedIn Ads, TikTok Ads y lógica de automatización.
+* **Deploy e infraestructura:** Docker, Docker Compose, Traefik, servidores Linux y debugging orientado a producción.
+* **Mentalidad de producto:** Me importan el rendimiento, la claridad, los flujos de usuario y construir software que resuelva problemas reales de negocio.
 
 ---
 
@@ -50,50 +50,52 @@ What I usually bring to a team:
 
 ---
 
-## Selected work
+## Proyectos destacados
 
 ### Indashin
-Commercial dashboard used to manage and monitor Google Ads, Meta Ads, Linkedin Ads and Tiktok Ads.
+
+Dashboard comercial usado para gestionar y monitorear cuentas de Google Ads, Meta Ads, LinkedIn Ads y TikTok Ads.
 
 **Highlights:**
 
-- Production system operating for more than 2 years.
-- Account hierarchy, budget control, history tracking and data synchronization.
-- Backend services with Python, MongoDB, Docker and scheduled update processes.
+* Sistema en producción operando durante más de 2 años.
+* Jerarquía de cuentas, control de presupuestos, historial de operaciones y sincronización de datos.
+* Servicios backend con Python, MongoDB, Docker y procesos programados de actualización.
 
-### Wachr — always-on ad account monitoring
-A SaaS product for paid media teams that monitors ad account KPIs and creates alerts when campaigns, budgets or performance move outside expected ranges.
+### Wachr — monitoreo always-on para cuentas publicitarias
 
-**Highlights:**
-
-- Multi-platform monitoring concept for Google Ads, Meta Ads, TikTok Ads and LinkedIn Ads.
-- Incident-style alerting with severity and routing to Slack or email.
-- Built with a product-first approach: clean UI, fast diagnosis and workflows for performance teams.
-
-### Wuni — mobile audiobook player
-
-A mobile audiobook player designed for long-form listening experiences, focused on smooth playback, reliable controls and a simple user experience.
+Producto SaaS para equipos de paid media que monitorea KPIs de cuentas publicitarias y crea alertas cuando campañas, presupuestos o rendimiento se mueven fuera de los rangos esperados.
 
 **Highlights:**
 
-- Built a custom audio playback flow with timeline progress, seek actions and player controls.
-- Worked on player state consistency for long-duration audio files and repeated seek interactions.
-- Designed a clean mobile interface with branded visual details, including splash screen styling and mascot animation.
+* Concepto de monitoreo multi-plataforma para Google Ads, Meta Ads, TikTok Ads y LinkedIn Ads.
+* Alertas estilo incidente con severidad y envío a Slack o email.
+* Construido con enfoque product-first: UI limpia, diagnóstico rápido y flujos pensados para equipos de performance.
+
+### Wuni — reproductor móvil de audiolibros
+
+Aplicación móvil de audiolibros diseñada para experiencias de escucha de larga duración, enfocada en reproducción fluida, controles confiables y una experiencia de usuario simple.
+
+**Highlights:**
+
+* Desarrollo de un flujo personalizado de reproducción de audio con progreso en timeline, acciones de seek y controles del reproductor.
+* Trabajo en consistencia de estado del reproductor para archivos de audio largos e interacciones repetidas de seek.
+* Diseño de una interfaz móvil limpia con detalles visuales de marca, incluyendo splash screen y animación de mascota.
 
 ---
 
-## What I'm focused on now
+## En qué estoy enfocado ahora
 
-- Building SaaS products for marketing, automation and paid media operations.
-- Improving backend reliability, observability and scalable data flows.
-- Designing cleaner dashboards with better UX for business users.
-- Using AI as a practical layer inside real workflows, not as a buzzword.
+* Construir productos SaaS para marketing, automatización y operaciones de paid media.
+* Mejorar la confiabilidad backend, la observabilidad y los flujos de datos escalables.
+* Diseñar dashboards más limpios con mejor UX para usuarios de negocio.
+* Usar IA como una capa práctica dentro de flujos reales de trabajo, no como una palabra de moda.
 
 ---
 
-## Contact
+## Contacto
 
-I'm interested in full-stack, product engineering and marketing-tech projects where software needs to be practical, reliable and useful for real teams.
+Me interesan proyectos de full-stack, product engineering y marketing-tech donde el software necesite ser práctico, confiable y útil para equipos reales.
 
 <p>
   <strong>Email:</strong> <a href="mailto:leopedraza.dev@gmail.com">leopedraza.dev@gmail.com</a><br />
