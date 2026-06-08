@@ -44,6 +44,8 @@ What I usually bring to a team:
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=codex&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
 </p>
 
 ---
@@ -94,7 +96,7 @@ A mobile audiobook player designed for long-form listening experiences, focused 
 I'm interested in full-stack, product engineering and marketing-tech projects where software needs to be practical, reliable and useful for real teams.
 
 <p>
-  <strong>Email:</strong> <a href="mailto:leopedraza0828@gmail.com">leopedraza0828@gmail.com</a><br />
+  <strong>Email:</strong> <a href="mailto:leopedraza.dev@gmail.com">leopedraza.dev@gmail.com</a><br />
   <strong>Website:</strong> <a href="https://wachr.app">wachr.app</a><br />
-  <strong>GitHub:</strong> <a href="https://github.com/leopedraza0828">@leopedraza0828</a>
+  <strong>GitHub:</strong> <a href="https://github.com/LeonelPedraza">@LeonelPedraza</a>
 </p>
