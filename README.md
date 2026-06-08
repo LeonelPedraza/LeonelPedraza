@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:leopedraza0828@gmail.com">Email</a> ·
+  <a href="mailto:leopedraza.dev@gmail.com">Email</a> ·
   <a href="https://wachr.app">Wachr</a> ·
-  <a href="https://github.com/leopedraza0828">GitHub</a>
+  <a href="https://github.com/LeonelPedraza">GitHub</a>
 </p>
 
 ---
@@ -86,18 +86,6 @@ A mobile audiobook player designed for long-form listening experiences, focused 
 - Improving backend reliability, observability and scalable data flows.
 - Designing cleaner dashboards with better UX for business users.
 - Using AI as a practical layer inside real workflows, not as a buzzword.
-
----
-
-## GitHub activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leopedraza0828&show_icons=true&hide_border=true" alt="Leonel Pedraza GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leopedraza0828&layout=compact&hide_border=true" alt="Most used languages" />
-</p>
 
 ---
 
